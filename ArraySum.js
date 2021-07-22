@@ -1,3 +1,4 @@
+//행렬의 덧셈
 function solution(arr1, arr2) {
     var answer = new Array(arr1.length);
     for(let i = 0; i<arr1.length; i++){

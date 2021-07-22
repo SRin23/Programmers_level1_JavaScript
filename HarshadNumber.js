@@ -1,3 +1,4 @@
+//하샤드 수
 function solution(x) {
     var answer = true;
     let cpx = x;
