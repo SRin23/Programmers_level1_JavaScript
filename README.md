@@ -1,1 +1,1 @@
-ㅠㄷ# Programmers_level1_JavaScript
+# Programmers_level1_JavaScript
