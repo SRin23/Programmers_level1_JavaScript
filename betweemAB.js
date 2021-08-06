@@ -6,8 +6,6 @@ function solution(a, b) {
         a = b;
         b = tmp;
     }
-    for(let i = a; i<=b; i++){
-        answer+=i;
-    }
+    for(let i = a; i<=b; i++){answer+=i;}
     return answer;
 }
